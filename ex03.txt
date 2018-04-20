@@ -1,0 +1,5 @@
+-rw-rw-rw- 1 funck funck 334 Apr 18 14:52 shell01.sh
+-rw-rw-rw- 1 funck funck  58 Apr 18 16:24 ex01.txt
+-rw-rw-rw- 1 funck funck 276 Apr 18 16:43 shell02.sh
+-rw-rw-rw- 1 funck funck 151 Apr 18 17:04 shell03.sh
+-rw-rw-rw- 1 funck funck   0 Apr 18 17:04 ex02.txt
