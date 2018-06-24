@@ -1,0 +1,28 @@
+eth1      Link encap:Ethernet  HWaddr 00:00:00:00:00:00  
+          unspec addr:[NONE SET]  Mask:00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+          inet6 addr: 2001:0:9d38:78cf:ccc:227e:453d:6206/64 Scope:Global
+          inet6 addr: fe80::ccc:227e:453d:6206/64 Scope:Unknown
+          UP RUNNING  MTU:1472  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Global
+          UP LOOPBACK RUNNING  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+wifi0     Link encap:UNSPEC  HWaddr 5C-C9-D3-46-3D-33-00-00-00-00-00-00-00-00-00-00  
+          inet addr:192.168.2.243  Bcast:192.168.2.255  Mask:255.255.255.0
+          inet6 addr: fe80::4465:1a47:3359:a4f1/64 Scope:Global
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
